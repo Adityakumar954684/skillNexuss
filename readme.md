@@ -161,5 +161,5 @@ Generate:
 4. **Dummy data** where backend is not directly connected  
 5. **API service file (axios instance)**  
 6. **Instructions to run frontend + backend**  
-7. **Everything should be copy–paste ready**  
+ 
 
